@@ -59,6 +59,47 @@ mvn exec:java -Dexec.mainClass="ClaroAutomation"
 - Add support for running in headless mode
 - Integrate logging for better debugging
 
+
+## Project Structure
+```
+ClaroAutomation/
+│── libs/                  # Directory containing ChromeDriver
+│── ClaroAutomation.java   # Main Java automation script
+│── ClaroAutomation.class  # Compiled Java class
+│── README.md              # Project documentation
+```
+
+## License
+This project is open-source and available for modification and distribution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## License
 This project is open-source and available for modification and distribution.
 
