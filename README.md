@@ -1,0 +1,2 @@
+# claro
+Claro automation project
